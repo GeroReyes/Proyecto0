@@ -1,0 +1,22 @@
+{
+  "name": "proyectuser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "express": "^2.5.11",
+    "express-validator": "^7.2.0",
+    "google-auth-library": "^9.14.1",
+    "googleapis": "^144.0.0",
+    "nodemailer": "^6.9.15",
+    "pg": "^8.12.0"
+  }
+}
